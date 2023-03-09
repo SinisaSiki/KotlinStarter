@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/adminMenuWirelessSettings" android:title="Мрежна подешавања"/>
+    <item android:id="@+id/adminMenuSystemSettings" android:title="Системска подешавања"/>
+    <item android:id="@+id/adminMenuDefaultSettings" android:title="Примени стандардна подешавања"/>
+</menu>

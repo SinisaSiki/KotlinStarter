@@ -1,0 +1,179 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\GIT\a-jadx-teron-start-22110301-android-i9100-starter-kotlin\app\src\main\AndroidManifest.xml:2:1-36:12
+INJECTED from C:\GIT\a-jadx-teron-start-22110301-android-i9100-starter-kotlin\app\src\main\AndroidManifest.xml:2:1-36:12
+INJECTED from C:\GIT\a-jadx-teron-start-22110301-android-i9100-starter-kotlin\app\src\main\AndroidManifest.xml:2:1-36:12
+INJECTED from C:\GIT\a-jadx-teron-start-22110301-android-i9100-starter-kotlin\app\src\main\AndroidManifest.xml:2:1-36:12
+INJECTED from C:\GIT\a-jadx-teron-start-22110301-android-i9100-starter-kotlin\app\src\main\AndroidManifest.xml:2:1-36:12
+INJECTED from C:\GIT\a-jadx-teron-start-22110301-android-i9100-starter-kotlin\app\src\main\AndroidManifest.xml:2:1-36:12
+INJECTED from C:\GIT\a-jadx-teron-start-22110301-android-i9100-starter-kotlin\app\src\main\AndroidManifest.xml:2:1-36:12
+	package
+		ADDED from C:\GIT\a-jadx-teron-start-22110301-android-i9100-starter-kotlin\app\src\main\AndroidManifest.xml:2:197-232
+		INJECTED from C:\GIT\a-jadx-teron-start-22110301-android-i9100-starter-kotlin\app\src\main\AndroidManifest.xml
+		INJECTED from C:\GIT\a-jadx-teron-start-22110301-android-i9100-starter-kotlin\app\src\main\AndroidManifest.xml
+	android:platformBuildVersionCode
+		ADDED from C:\GIT\a-jadx-teron-start-22110301-android-i9100-starter-kotlin\app\src\main\AndroidManifest.xml:2:233-270
+	android:compileSdkVersionCodename
+		ADDED from C:\GIT\a-jadx-teron-start-22110301-android-i9100-starter-kotlin\app\src\main\AndroidManifest.xml:2:158-196
+	android:versionName
+		ADDED from C:\GIT\a-jadx-teron-start-22110301-android-i9100-starter-kotlin\app\src\main\AndroidManifest.xml:2:101-126
+		INJECTED from C:\GIT\a-jadx-teron-start-22110301-android-i9100-starter-kotlin\app\src\main\AndroidManifest.xml
+		INJECTED from C:\GIT\a-jadx-teron-start-22110301-android-i9100-starter-kotlin\app\src\main\AndroidManifest.xml
+	android:compileSdkVersion
+		ADDED from C:\GIT\a-jadx-teron-start-22110301-android-i9100-starter-kotlin\app\src\main\AndroidManifest.xml:2:127-157
+	xmlns:android
+		ADDED from C:\GIT\a-jadx-teron-start-22110301-android-i9100-starter-kotlin\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from C:\GIT\a-jadx-teron-start-22110301-android-i9100-starter-kotlin\app\src\main\AndroidManifest.xml:2:70-100
+		INJECTED from C:\GIT\a-jadx-teron-start-22110301-android-i9100-starter-kotlin\app\src\main\AndroidManifest.xml
+		INJECTED from C:\GIT\a-jadx-teron-start-22110301-android-i9100-starter-kotlin\app\src\main\AndroidManifest.xml
+	android:platformBuildVersionName
+		ADDED from C:\GIT\a-jadx-teron-start-22110301-android-i9100-starter-kotlin\app\src\main\AndroidManifest.xml:2:271-308
+uses-sdk
+ADDED from C:\GIT\a-jadx-teron-start-22110301-android-i9100-starter-kotlin\app\src\main\AndroidManifest.xml:3:5-73
+INJECTED from C:\GIT\a-jadx-teron-start-22110301-android-i9100-starter-kotlin\app\src\main\AndroidManifest.xml:3:5-73
+INJECTED from C:\GIT\a-jadx-teron-start-22110301-android-i9100-starter-kotlin\app\src\main\AndroidManifest.xml:3:5-73
+INJECTED from C:\GIT\a-jadx-teron-start-22110301-android-i9100-starter-kotlin\app\src\main\AndroidManifest.xml:3:5-73
+INJECTED from C:\GIT\a-jadx-teron-start-22110301-android-i9100-starter-kotlin\app\src\main\AndroidManifest.xml:3:5-73
+	android:targetSdkVersion
+		ADDED from C:\GIT\a-jadx-teron-start-22110301-android-i9100-starter-kotlin\app\src\main\AndroidManifest.xml:3:42-71
+		INJECTED from C:\GIT\a-jadx-teron-start-22110301-android-i9100-starter-kotlin\app\src\main\AndroidManifest.xml
+		INJECTED from C:\GIT\a-jadx-teron-start-22110301-android-i9100-starter-kotlin\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from C:\GIT\a-jadx-teron-start-22110301-android-i9100-starter-kotlin\app\src\main\AndroidManifest.xml:3:15-41
+		INJECTED from C:\GIT\a-jadx-teron-start-22110301-android-i9100-starter-kotlin\app\src\main\AndroidManifest.xml
+		INJECTED from C:\GIT\a-jadx-teron-start-22110301-android-i9100-starter-kotlin\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.CHANGE_NETWORK_STATE
+ADDED from C:\GIT\a-jadx-teron-start-22110301-android-i9100-starter-kotlin\app\src\main\AndroidManifest.xml:4:5-78
+	android:name
+		ADDED from C:\GIT\a-jadx-teron-start-22110301-android-i9100-starter-kotlin\app\src\main\AndroidManifest.xml:4:22-76
+uses-permission#android.permission.INTERNET
+ADDED from C:\GIT\a-jadx-teron-start-22110301-android-i9100-starter-kotlin\app\src\main\AndroidManifest.xml:5:5-66
+	android:name
+		ADDED from C:\GIT\a-jadx-teron-start-22110301-android-i9100-starter-kotlin\app\src\main\AndroidManifest.xml:5:22-64
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\GIT\a-jadx-teron-start-22110301-android-i9100-starter-kotlin\app\src\main\AndroidManifest.xml:6:5-79
+	android:name
+		ADDED from C:\GIT\a-jadx-teron-start-22110301-android-i9100-starter-kotlin\app\src\main\AndroidManifest.xml:6:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\GIT\a-jadx-teron-start-22110301-android-i9100-starter-kotlin\app\src\main\AndroidManifest.xml:7:5-80
+	android:name
+		ADDED from C:\GIT\a-jadx-teron-start-22110301-android-i9100-starter-kotlin\app\src\main\AndroidManifest.xml:7:22-78
+uses-permission#android.permission.REQUEST_INSTALL_PACKAGES
+ADDED from C:\GIT\a-jadx-teron-start-22110301-android-i9100-starter-kotlin\app\src\main\AndroidManifest.xml:8:5-82
+	android:name
+		ADDED from C:\GIT\a-jadx-teron-start-22110301-android-i9100-starter-kotlin\app\src\main\AndroidManifest.xml:8:22-80
+uses-permission#android.permission.WAKE_LOCK
+ADDED from C:\GIT\a-jadx-teron-start-22110301-android-i9100-starter-kotlin\app\src\main\AndroidManifest.xml:9:5-67
+	android:name
+		ADDED from C:\GIT\a-jadx-teron-start-22110301-android-i9100-starter-kotlin\app\src\main\AndroidManifest.xml:9:22-65
+queries
+ADDED from C:\GIT\a-jadx-teron-start-22110301-android-i9100-starter-kotlin\app\src\main\AndroidManifest.xml:10:5-18:15
+package#rs.teron.esir.android
+ADDED from C:\GIT\a-jadx-teron-start-22110301-android-i9100-starter-kotlin\app\src\main\AndroidManifest.xml:11:9-56
+	android:name
+		ADDED from C:\GIT\a-jadx-teron-start-22110301-android-i9100-starter-kotlin\app\src\main\AndroidManifest.xml:11:18-54
+package#rs.teron.lpfr.android
+ADDED from C:\GIT\a-jadx-teron-start-22110301-android-i9100-starter-kotlin\app\src\main\AndroidManifest.xml:12:9-56
+	android:name
+		ADDED from C:\GIT\a-jadx-teron-start-22110301-android-i9100-starter-kotlin\app\src\main\AndroidManifest.xml:12:18-54
+package#rs.teron.launcher.android
+ADDED from C:\GIT\a-jadx-teron-start-22110301-android-i9100-starter-kotlin\app\src\main\AndroidManifest.xml:13:9-60
+	android:name
+		ADDED from C:\GIT\a-jadx-teron-start-22110301-android-i9100-starter-kotlin\app\src\main\AndroidManifest.xml:13:18-58
+package#com.itsteam.bus_ticketing.android
+ADDED from C:\GIT\a-jadx-teron-start-22110301-android-i9100-starter-kotlin\app\src\main\AndroidManifest.xml:14:9-68
+	android:name
+		ADDED from C:\GIT\a-jadx-teron-start-22110301-android-i9100-starter-kotlin\app\src\main\AndroidManifest.xml:14:18-66
+package#rs.lasta.prodaja.lastasplash
+ADDED from C:\GIT\a-jadx-teron-start-22110301-android-i9100-starter-kotlin\app\src\main\AndroidManifest.xml:15:9-63
+	android:name
+		ADDED from C:\GIT\a-jadx-teron-start-22110301-android-i9100-starter-kotlin\app\src\main\AndroidManifest.xml:15:18-61
+package#rs.lasta.prodaja
+ADDED from C:\GIT\a-jadx-teron-start-22110301-android-i9100-starter-kotlin\app\src\main\AndroidManifest.xml:16:9-51
+	android:name
+		ADDED from C:\GIT\a-jadx-teron-start-22110301-android-i9100-starter-kotlin\app\src\main\AndroidManifest.xml:16:18-49
+package#rs.galeb.prodaja
+ADDED from C:\GIT\a-jadx-teron-start-22110301-android-i9100-starter-kotlin\app\src\main\AndroidManifest.xml:17:9-51
+	android:name
+		ADDED from C:\GIT\a-jadx-teron-start-22110301-android-i9100-starter-kotlin\app\src\main\AndroidManifest.xml:17:18-49
+application
+ADDED from C:\GIT\a-jadx-teron-start-22110301-android-i9100-starter-kotlin\app\src\main\AndroidManifest.xml:19:5-35:19
+	android:requestLegacyExternalStorage
+		ADDED from C:\GIT\a-jadx-teron-start-22110301-android-i9100-starter-kotlin\app\src\main\AndroidManifest.xml:19:335-378
+	android:extractNativeLibs
+		ADDED from C:\GIT\a-jadx-teron-start-22110301-android-i9100-starter-kotlin\app\src\main\AndroidManifest.xml:19:186-219
+	android:supportsRtl
+		ADDED from C:\GIT\a-jadx-teron-start-22110301-android-i9100-starter-kotlin\app\src\main\AndroidManifest.xml:19:159-185
+	android:label
+		ADDED from C:\GIT\a-jadx-teron-start-22110301-android-i9100-starter-kotlin\app\src\main\AndroidManifest.xml:19:64-96
+	android:appComponentFactory
+		ADDED from C:\GIT\a-jadx-teron-start-22110301-android-i9100-starter-kotlin\app\src\main\AndroidManifest.xml:19:266-334
+	android:roundIcon
+		ADDED from C:\GIT\a-jadx-teron-start-22110301-android-i9100-starter-kotlin\app\src\main\AndroidManifest.xml:19:220-265
+	android:icon
+		ADDED from C:\GIT\a-jadx-teron-start-22110301-android-i9100-starter-kotlin\app\src\main\AndroidManifest.xml:19:97-131
+	android:allowBackup
+		ADDED from C:\GIT\a-jadx-teron-start-22110301-android-i9100-starter-kotlin\app\src\main\AndroidManifest.xml:19:132-158
+	android:theme
+		ADDED from C:\GIT\a-jadx-teron-start-22110301-android-i9100-starter-kotlin\app\src\main\AndroidManifest.xml:19:18-63
+provider#androidx.core.content.FileProvider
+ADDED from C:\GIT\a-jadx-teron-start-22110301-android-i9100-starter-kotlin\app\src\main\AndroidManifest.xml:20:9-22:20
+	android:grantUriPermissions
+		ADDED from C:\GIT\a-jadx-teron-start-22110301-android-i9100-starter-kotlin\app\src\main\AndroidManifest.xml:20:151-185
+	android:authorities
+		ADDED from C:\GIT\a-jadx-teron-start-22110301-android-i9100-starter-kotlin\app\src\main\AndroidManifest.xml:20:94-150
+	android:exported
+		ADDED from C:\GIT\a-jadx-teron-start-22110301-android-i9100-starter-kotlin\app\src\main\AndroidManifest.xml:20:69-93
+	android:name
+		ADDED from C:\GIT\a-jadx-teron-start-22110301-android-i9100-starter-kotlin\app\src\main\AndroidManifest.xml:20:19-68
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from C:\GIT\a-jadx-teron-start-22110301-android-i9100-starter-kotlin\app\src\main\AndroidManifest.xml:21:13-120
+	android:resource
+		ADDED from C:\GIT\a-jadx-teron-start-22110301-android-i9100-starter-kotlin\app\src\main\AndroidManifest.xml:21:75-118
+	android:name
+		ADDED from C:\GIT\a-jadx-teron-start-22110301-android-i9100-starter-kotlin\app\src\main\AndroidManifest.xml:21:24-74
+activity#rs.teron.launcher.android.MainActivity
+ADDED from C:\GIT\a-jadx-teron-start-22110301-android-i9100-starter-kotlin\app\src\main\AndroidManifest.xml:23:9-30:20
+	android:exported
+		ADDED from C:\GIT\a-jadx-teron-start-22110301-android-i9100-starter-kotlin\app\src\main\AndroidManifest.xml:23:73-96
+	android:name
+		ADDED from C:\GIT\a-jadx-teron-start-22110301-android-i9100-starter-kotlin\app\src\main\AndroidManifest.xml:23:19-72
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.DEFAULT+category:name:android.intent.category.HOME+category:name:android.intent.category.LAUNCHER
+ADDED from C:\GIT\a-jadx-teron-start-22110301-android-i9100-starter-kotlin\app\src\main\AndroidManifest.xml:24:13-29:29
+action#android.intent.action.MAIN
+ADDED from C:\GIT\a-jadx-teron-start-22110301-android-i9100-starter-kotlin\app\src\main\AndroidManifest.xml:25:17-68
+	android:name
+		ADDED from C:\GIT\a-jadx-teron-start-22110301-android-i9100-starter-kotlin\app\src\main\AndroidManifest.xml:25:25-66
+category#android.intent.category.HOME
+ADDED from C:\GIT\a-jadx-teron-start-22110301-android-i9100-starter-kotlin\app\src\main\AndroidManifest.xml:26:17-72
+	android:name
+		ADDED from C:\GIT\a-jadx-teron-start-22110301-android-i9100-starter-kotlin\app\src\main\AndroidManifest.xml:26:27-70
+category#android.intent.category.DEFAULT
+ADDED from C:\GIT\a-jadx-teron-start-22110301-android-i9100-starter-kotlin\app\src\main\AndroidManifest.xml:27:17-75
+	android:name
+		ADDED from C:\GIT\a-jadx-teron-start-22110301-android-i9100-starter-kotlin\app\src\main\AndroidManifest.xml:27:27-73
+category#android.intent.category.LAUNCHER
+ADDED from C:\GIT\a-jadx-teron-start-22110301-android-i9100-starter-kotlin\app\src\main\AndroidManifest.xml:28:17-76
+	android:name
+		ADDED from C:\GIT\a-jadx-teron-start-22110301-android-i9100-starter-kotlin\app\src\main\AndroidManifest.xml:28:27-74
+provider#androidx.startup.InitializationProvider
+ADDED from C:\GIT\a-jadx-teron-start-22110301-android-i9100-starter-kotlin\app\src\main\AndroidManifest.xml:31:9-34:20
+	android:authorities
+		ADDED from C:\GIT\a-jadx-teron-start-22110301-android-i9100-starter-kotlin\app\src\main\AndroidManifest.xml:31:99-163
+	android:exported
+		ADDED from C:\GIT\a-jadx-teron-start-22110301-android-i9100-starter-kotlin\app\src\main\AndroidManifest.xml:31:74-98
+	android:name
+		ADDED from C:\GIT\a-jadx-teron-start-22110301-android-i9100-starter-kotlin\app\src\main\AndroidManifest.xml:31:19-73
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from C:\GIT\a-jadx-teron-start-22110301-android-i9100-starter-kotlin\app\src\main\AndroidManifest.xml:32:13-117
+	android:value
+		ADDED from C:\GIT\a-jadx-teron-start-22110301-android-i9100-starter-kotlin\app\src\main\AndroidManifest.xml:32:83-115
+	android:name
+		ADDED from C:\GIT\a-jadx-teron-start-22110301-android-i9100-starter-kotlin\app\src\main\AndroidManifest.xml:32:24-82
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from C:\GIT\a-jadx-teron-start-22110301-android-i9100-starter-kotlin\app\src\main\AndroidManifest.xml:33:13-120
+	android:value
+		ADDED from C:\GIT\a-jadx-teron-start-22110301-android-i9100-starter-kotlin\app\src\main\AndroidManifest.xml:33:86-118
+	android:name
+		ADDED from C:\GIT\a-jadx-teron-start-22110301-android-i9100-starter-kotlin\app\src\main\AndroidManifest.xml:33:24-85
